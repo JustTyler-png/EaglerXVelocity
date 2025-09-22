@@ -239,3 +239,5 @@
 [14:05:47] [Server thread/INFO]: _thr_ left the game.
 [14:21:39] [User Authenticator #3/INFO]: UUID of player _thr_ is b84a768a-d567-3f82-b4a0-d4362a5117ae
 [14:21:39] [Server thread/INFO]: _thr_[/[0:0:0:0:0:0:0:1]:48654] logged in with entity id 3512 at ([world]-3.954963331640951, 74.0, 31.132885782019848)
+[14:29:14] [Server thread/INFO]: _thr_ lost connection: Disconnected
+[14:29:14] [Server thread/INFO]: _thr_ left the game.

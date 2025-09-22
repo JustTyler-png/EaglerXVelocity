@@ -95,3 +95,5 @@
 [14:21:38] [nLogin - Task Executor #0/INFO] [nlogin]: The user _thr_ has successfully logged in.
 [14:21:39] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] _thr_ -> survival has connected
 [14:21:39] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] _thr_ -> lobby has disconnected
+[14:29:14] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] _thr_ (/[0:0:0:0:0:0:0:1%0]:37716) has disconnected
+[14:29:14] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] _thr_ -> survival has disconnected
