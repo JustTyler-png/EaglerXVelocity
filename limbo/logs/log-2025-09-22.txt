@@ -1,0 +1,17 @@
+13:41:06.762 INFO  Limbo -- Starting server...
+13:41:07.636 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+13:44:13.217 INFO  Limbo -- Player _thr_ connected (/127.0.0.1:48082) [V1_8]
+13:44:26.614 INFO  Limbo -- Player _thr_ disconnected
+13:47:40.918 INFO  Limbo -- Unknown command. Type "help" to get commands list
+13:48:06.005 INFO  Limbo -- Available commands:
+13:48:06.006 INFO  Limbo -- help - Show this message
+13:48:06.006 INFO  Limbo -- conn - Display connections count
+13:48:06.006 INFO  Limbo -- ver - Display limbo version
+13:48:06.006 INFO  Limbo -- mem - Display memory usage
+13:48:06.006 INFO  Limbo -- stop - Stop the server
+13:48:06.007 INFO  Limbo -- version - Display limbo version
+13:48:34.399 INFO  Limbo -- Unknown command. Type "help" to get commands list
+13:56:49.503 INFO  Limbo -- Player _thr_ connected (/127.0.0.1:59838) [V1_8]
+13:57:00.941 INFO  Limbo -- Player _thr_ disconnected
+14:21:32.210 INFO  Limbo -- Player _thr_ connected (/127.0.0.1:43562) [V1_8]
+14:21:39.396 INFO  Limbo -- Player _thr_ disconnected
